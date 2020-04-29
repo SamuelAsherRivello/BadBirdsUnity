@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UpsetDuck
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 2649771109
+    locked: 0
+  - name: Grass
+    uniqueID: 791764359
+    locked: 0
+  - name: CatapultBackground
+    uniqueID: 1971866749
+    locked: 0
+  - name: Asteroid
+    uniqueID: 1249427453
+    locked: 0
+  - name: CatapultForground
+    uniqueID: 3600457353
+    locked: 0
+  - name: Bird
+    uniqueID: 2758568081
+    locked: 0
+  - name: Crate
+    uniqueID: 805252353
+    locked: 0
+  - name: Explosion
+    uniqueID: 44701223
+    locked: 0
