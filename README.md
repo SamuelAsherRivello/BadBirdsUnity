@@ -2,19 +2,34 @@
 
 This game is a clone of a popular mobile game.
 
-This game showcases the basics of a complete 2D Physics game.
+It showcases the basics of a complete 2D Physics game.
 
-It serves as a learning example. Contact me for personal/group tutoring.
+This serves as a learning example. <a href="https://Linkedin.com/in/SamuelAsherRivello">Contact Me</a> for personal/group tutoring.
 
-## Screenshots
+Enjoy!
 
-![](./client/Assets/Documentation/unity-game-view.jpg)
+## Project
 
-![](./client/Assets/Documentation/unity-project-view.jpg)
+**Configuration**
 
-![](./client/Assets/Documentation/unity-scene-view.jpg)
+* `Engine` - [Unity](https://docs.unity3d.com/) Game Engine
+* `Unity Target` - Standalone MAC/PC
+* `Unity Version` - Use this [Version](./client/ProjectSettings/ProjectVersion.txt) or above
+* `Unity Rendering` - [Standard Render Pipeline (SRP)](https://docs.unity3d.com/Manual/built-in-render-pipeline.html)
 
-## Game Components
+
+**Screenshots**
+
+Game View
+<img src="./client/Assets/Documentation/unity-game-view.jpg" style="width:300px;"/>
+
+Project View
+<img src="./client/Assets/Documentation/unity-project-view.jpg" style="width:300px;"/>
+
+Scene Hierarchy View
+<img src="./client/Assets/Documentation/unity-scene-view.jpg" style="width:300px;"/>
+
+**Components**
 
 * Rendering
 * Audio
@@ -22,10 +37,6 @@ It serves as a learning example. Contact me for personal/group tutoring.
 * Physics (Gravity/Collisions)
 * Programming
 * Game Design (Win/Loss)
-
-## Game Engine
-
-This game uses the [Unity](https://docs.unity3d.com/) game development engine.
 
 Created By
 =============
