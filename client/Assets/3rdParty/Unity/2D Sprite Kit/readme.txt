@@ -1,5 +1,5 @@
 Source Url: 
-* https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676#publisher
+* https://assetstore.unity.com/packages/essentials/tutorial-projects/lost-crypt-2d-sample-project-158673#publisher
 
 Changelog: 
 * Moved to /Assets/3rdParty/
